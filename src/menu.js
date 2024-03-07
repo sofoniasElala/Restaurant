@@ -9,7 +9,7 @@ function menu(){
     const lunchMenu = document.createElement('p');
     lunchMenu.innerHTML = '<strong>Hamachi</strong>   18   blood orange | miso<br>'+
                           '<strong>Castelfranco</strong>   17   ruby red grapefruit | pepitas<br>'+
-                          '<strong>forono beets</strong>   20   baley hazen blue | smoked breadcrumbs';
+                          '<strong>Forono beets</strong>   20   baley hazen blue | smoked breadcrumbs';
     menuContainer.appendChild(lunch);
     menuContainer.appendChild(lunchMenu);
     content.appendChild(heading);

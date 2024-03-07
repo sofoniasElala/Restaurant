@@ -1,2 +1,2 @@
 # Restaurant
-### single-Page Application (SPA)  
+### Single-Page Application (SPA)  
